@@ -4,7 +4,7 @@
 
 
 
-<h1 align="center">👋 Hello, I'm <b>Ibrahim Mutua<</b>Ibrahim Mutua</h1>
+<h1 align="center">👋 Hello, I'm <b>Ibrahim Mutua</b></h1>
 <p align="center">
   A multidisciplinary <strong>Software Developer</strong>, <strong>Mechanical Engineer</strong>, 
   <strong>IoT Engineer</strong>, and <strong>PCB Designer</strong> from Kenya.<br>
