@@ -5,13 +5,15 @@
 
 
 <h1 align="center">👋 Hello, I'm **Ibrahim Mutua**</h1>
-A multidisciplinary **Software Developer**, **Mechanical Engineer**,
-**IoT Engineer**, and **PCB Designer** from Kenya.
-I love building solutions that merge **software + hardware**, from
-full‑stack web applications to embedded systems, 3D simulations, and PCB
-designs.\
-I'm also deeply fascinated by **military technology**, autonomous
-systems, and modern engineering innovations.
+<p align="center">
+  A multidisciplinary <strong>Software Developer</strong>, <strong>Mechanical Engineer</strong>, 
+  <strong>IoT Engineer</strong>, and <strong>PCB Designer</strong> from Kenya.<br>
+  I specialize in creating solutions that seamlessly integrate <strong>software and hardware</strong> — 
+  from full-stack web applications and embedded systems to 3D simulations and custom PCB designs.<br><br>
+  I’m driven by a deep fascination with <strong>military technology</strong>, autonomous systems, 
+  and cutting-edge engineering innovations.
+</p>
+
 
 ------------------------------------------------------------------------
 
