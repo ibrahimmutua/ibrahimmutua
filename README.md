@@ -27,9 +27,13 @@
 -   🎯 Strong interest in **military tech**, robotics & defense systems
 
 ------------------------------------------------------------------------
+## 🧠 Currently Learning
 
+-   Deepening knowledge in **embedded systems & IoT**
+-   Improving **React Native** and mobile development
+-   Exploring **AI & ML tools**
 ## 🛠️ Tech Stack & Tools
-
+---
 ### **Programming Languages**
 
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
