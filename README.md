@@ -1,40 +1,91 @@
-# 👋 Hello, I'm Ibrahim mutua
+# 👋 Hello, I'm **Ibrahim Mutua**
 
-I'm an aspiring programmer from Kenya, currently diving into the world of C programming.
+A passionate **Software Developer**, **Mechanical Engineer**, and **IoT
+Engineer** from Kenya. I love building systems that bridge hardware and
+software --- from full-stack web apps to embedded innovations.
 
-## 🌱 Learning Journey
+I'm also deeply fascinated by **military technology**, robotics, and
+advanced engineering systems.
 
-- 🔭 I’m currently working on understanding the basics of C programming.
-- 🌱 I’m learning about variables, loops, and functions in C.
-- 💬 Ask me about my learning experiences or share resources!
+------------------------------------------------------------------------
 
-## 📚 Resources I'm Exploring
+## 🚀 What I Do
 
-- [The C Programming Language by Kernighan and Ritchie](https://en.wikipedia.org/wiki/The_C_Programming_Language)
-- [Exercism C Track](https://exercism.org/tracks/c)
-- [freeCodeCamp](https://www.freecodecamp.org)
+-   🧑‍💻 **Full-Stack Developer (MERN Stack)**\
+    Building dynamic and scalable applications using **MongoDB, Express,
+    React, and Node.js**.
 
-## 📫 How to Reach Me
+-   🔧 **Mechanical Engineer**\
+    Skilled in problem-solving, design thinking, and engineering
+    analysis.
 
-- GitHub: [yourusername](https://github.com/ibrahimmutua)
-- Email: ibrahimmutua315@gmail.com
+-   🤖 **IoT Engineer**\
+    Working on smart systems, sensors, microcontrollers, and automation
+    logic.
 
----
+-   🎮 **3D & Game Development Enthusiast**\
+    Creating interactive experiences using **Blender** and **Unity**.
 
-*Feel free to connect with me as I embark on this programming journey!*
+-   🎯 Big interest in **military technology**, defense systems, and
+    engineering innovations.
 
+------------------------------------------------------------------------
 
-<!--
-**ibrahimmutua/ibrahimmutua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧠 Currently Learning
 
-Here are some ideas to get you started:
+-   Mastering **C programming** fundamentals\
+-   Deepening knowledge in **embedded systems & IoT**\
+-   Improving **React Native** and mobile development\
+-   Exploring **AI & ML tools**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+------------------------------------------------------------------------
+
+## 🛠️ Tech Stack & Tools
+
+### **Programming Languages**
+
+-   C\
+-   Python\
+-   JavaScript
+
+### **Web Development**
+
+-   React\
+-   Node.js\
+-   Express.js\
+-   HTML\
+-   CSS\
+-   TailwindCSS
+
+### **Databases**
+
+-   MongoDB\
+-   PostgreSQL
+
+### **Tools & Platforms**
+
+-   Git & GitHub\
+-   Blender\
+-   Unity\
+-   Figma\
+-   Linux
+
+------------------------------------------------------------------------
+
+## 📚 Resources I'm Using
+
+-   *The C Programming Language* (K&R)\
+-   Exercism C Track\
+-   freeCodeCamp\
+-   MDN Web Docs
+
+------------------------------------------------------------------------
+
+## 📫 Connect With Me
+
+-   **GitHub:** https://github.com/ibrahimmutua\
+-   **Email:** ibrahimmutua315@gmail.com
+
+------------------------------------------------------------------------
+
+✨ *Thanks for stopping by --- feel free to connect or collaborate!*
