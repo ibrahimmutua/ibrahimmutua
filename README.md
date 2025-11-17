@@ -1,42 +1,24 @@
 # 👋 Hello, I'm **Ibrahim Mutua**
 
-A passionate **Software Developer**, **Mechanical Engineer**, and **IoT
-Engineer** from Kenya. I love building systems that bridge hardware and
-software --- from full-stack web apps to embedded innovations.
+A multidisciplinary **Software Developer**, **Mechanical Engineer**,
+**IoT Engineer**, and **PCB Designer** from Kenya.
 
-I'm also deeply fascinated by **military technology**, robotics, and
-advanced engineering systems.
+I love building solutions that merge **software + hardware**, from
+full‑stack web applications to embedded systems, 3D simulations, and PCB
+designs.\
+I'm also deeply fascinated by **military technology**, autonomous
+systems, and modern engineering innovations.
 
 ------------------------------------------------------------------------
 
 ## 🚀 What I Do
 
--   🧑‍💻 **Full-Stack Developer (MERN Stack)**\
-    Building dynamic and scalable applications using **MongoDB, Express,
-    React, and Node.js**.
-
--   🔧 **Mechanical Engineer**\
-    Skilled in problem-solving, design thinking, and engineering
-    analysis.
-
--   🤖 **IoT Engineer**\
-    Working on smart systems, sensors, microcontrollers, and automation
-    logic.
-
--   🎮 **3D & Game Development Enthusiast**\
-    Creating interactive experiences using **Blender** and **Unity**.
-
--   🎯 Big interest in **military technology**, defense systems, and
-    engineering innovations.
-
-------------------------------------------------------------------------
-
-## 🧠 Currently Learning
-
--   Mastering **C programming** fundamentals\
--   Deepening knowledge in **embedded systems & IoT**\
--   Improving **React Native** and mobile development\
--   Exploring **AI & ML tools**
+-   🧑‍💻 **Full‑Stack Developer (MERN Stack)**
+-   🛠 **PCB Designer** (KiCad / EasyEDA)
+-   🤖 **IoT & Embedded Systems Developer**
+-   🔧 **Mechanical Engineering Projects & Prototyping**
+-   🎮 **3D & Game Development** using Blender and Unity
+-   🎯 Strong interest in **military tech**, robotics & defense systems
 
 ------------------------------------------------------------------------
 
@@ -44,48 +26,53 @@ advanced engineering systems.
 
 ### **Programming Languages**
 
--   C\
--   Python\
--   JavaScript
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
-### **Web Development**
+------------------------------------------------------------------------
 
--   React\
--   Node.js\
--   Express.js\
--   HTML\
--   CSS\
--   TailwindCSS
+### **Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
+
+------------------------------------------------------------------------
+
+### **Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+
+------------------------------------------------------------------------
 
 ### **Databases**
 
--   MongoDB\
--   PostgreSQL
-
-### **Tools & Platforms**
-
--   Git & GitHub\
--   Blender\
--   Unity\
--   Figma\
--   Linux
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
 
 ------------------------------------------------------------------------
 
-## 📚 Resources I'm Using
+### **Tools, Platforms & Design**
 
--   *The C Programming Language* (K&R)\
--   Exercism C Track\
--   freeCodeCamp\
--   MDN Web Docs
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?logo=kicad&logoColor=white)
+![EasyEDA](https://img.shields.io/badge/EasyEDA-1765F6?logo=easyeda&logoColor=white)
 
 ------------------------------------------------------------------------
 
-## 📫 Connect With Me
+## 📫 Contact Me
 
 -   **GitHub:** https://github.com/ibrahimmutua\
 -   **Email:** ibrahimmutua315@gmail.com
 
 ------------------------------------------------------------------------
 
-✨ *Thanks for stopping by --- feel free to connect or collaborate!*
+✨ *Thanks for stopping by --- let's build something impactful!*
