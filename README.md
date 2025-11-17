@@ -1,8 +1,12 @@
-# 👋 Hello, I'm **Ibrahim Mutua**
+<p align="center">
+  <img src="image.png" alt="Ibrahim Mutua – Engineering & Tech Banner" width="800">
+</p>
 
+
+
+<h1 align="center">👋 Hello, I'm **Ibrahim Mutua**</h1>
 A multidisciplinary **Software Developer**, **Mechanical Engineer**,
 **IoT Engineer**, and **PCB Designer** from Kenya.
-
 I love building solutions that merge **software + hardware**, from
 full‑stack web applications to embedded systems, 3D simulations, and PCB
 designs.\
