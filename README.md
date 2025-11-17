@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="image.png" alt="Ibrahim Mutua – Engineering & Tech Banner" width="800">
+  <img src="image.png" alt="Ibrahim Mutua – Engineering & Tech Banner" width="800" height="500">
 </p>
 
 
