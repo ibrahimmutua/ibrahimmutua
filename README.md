@@ -28,10 +28,11 @@
 
 ------------------------------------------------------------------------
 ## 🧠 Currently Learning
+- Deepening knowledge in **embedded systems & IoT**
+- Improving **React Native** and mobile development
+- Exploring **AI & ML tools**
+- Advancing 3D design and engineering modeling in **SolidWorks**
 
--   Deepening knowledge in **embedded systems & IoT**
--   Improving **React Native** and mobile development
--   Exploring **AI & ML tools**
 ## 🛠️ Tech Stack & Tools
 ---
 ### **Programming Languages**
